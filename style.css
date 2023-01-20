@@ -1,0 +1,9 @@
+@media screen and (max-width: 900px) {
+    #category {
+        display: block;
+    }
+}
+
+body {
+    background-color: rgb(229, 229, 223);
+}
